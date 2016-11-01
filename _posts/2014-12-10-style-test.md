@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Style Test"
+title: Style Test
 image: header.jpg
 video: false
+published: true
 ---
 
 Note: This style test is taken verbatum from the official Roon style test on
@@ -14,7 +15,7 @@ Heavily copied content begins below...
 
 * * *
 
-# Heading 1
+# Heading n
 
 ## Heading 2
 
