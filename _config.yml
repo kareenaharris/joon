@@ -4,7 +4,7 @@ logo: whatanegg_logo-18.png
 email: poached@whatanegg.com
 description: ""
 url: "http://whatanegg.com" # the base hostname & protocol for your site
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: whatanegg_0
 
 permalink: pretty
